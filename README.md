@@ -2,7 +2,9 @@
 - 👀 I’m interested in Front-End. 
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects that helps me to practice and keep learning.
-- 📫 How to reach me https://twitter.com/isalroes
+- 📫 How to reach me:
+- 💻 https://www.linkedin.com/in/isaac-rodriguez-mx/ 
+- 🎯 https://twitter.com/isalroes 
 
 <!---
 isalroes/isalroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
